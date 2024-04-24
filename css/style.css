@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 900px;
+    padding-top: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wrapper {
+    font-size: 0;
+}
+
+.item{
+    width: 25%;
+    height: 100px;
+    display: inline-block;
+    border: 1px solid lightgray;
+}
