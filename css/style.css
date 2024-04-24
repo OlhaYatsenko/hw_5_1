@@ -4,9 +4,12 @@
 
 .container {
     max-width: 900px;
-    padding-top: 20px;
-    margin: 0 auto;
+    margin: 20px auto;
     text-align: center;
+    border-top: 1px solid lightgray;
+    border-right: 2px solid lightgray;
+    border-bottom: 5px solid lightgray;
+    border-left: 3px solid lightgray;
 }
 
 .wrapper {
@@ -17,5 +20,5 @@
     width: 25%;
     height: 100px;
     display: inline-block;
-    border: 1px solid lightgray;
+    border: 1px solid lightgray
 }
